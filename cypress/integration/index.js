@@ -148,7 +148,7 @@ describe("All Cases",()=>{
 });
 
 
-it("Correct Maturiry Rating",()=>
+it("Correct Maturity Rating",()=>
 {
     var str=""
     for(let j=0;j<el[i].length;j++)
@@ -177,7 +177,7 @@ it("Correct Maturiry Rating",()=>
 })
 });
 
-it("Correct Maturiry Rating",()=>
+it("Correct Rating",()=>
 {
     var str=""
     for(let j=0;j<el[i].length;j++)
